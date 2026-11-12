@@ -1,7 +1,14 @@
+import './Products.css'
 function Products() {
+    const designdemo = {
+        color: "white",
+        backgroundColor: "red"
+    }
+
     return (
         <>
-            <p>this is a product page</p>
+            <p style={designdemo}>this is a product page</p >
+
         </>
     )
 }

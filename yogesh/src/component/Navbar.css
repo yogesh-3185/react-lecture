@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+
+}
+
+nav {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    background-color: black;
+}
+
+nav a {
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+}
